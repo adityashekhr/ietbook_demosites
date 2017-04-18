@@ -1,0 +1,605 @@
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2014.8.21)  17 APR 2017 19:25
+entering extended mode
+**Sample.tex
+
+("E:\phd\2016-17\dc book\ietbook_demosites\Demonstrations - DC Microgrid\Sample
+.tex"
+LaTeX2e <2011/06/27>
+Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
+abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
+croatian, czech, danish, dutch, esperanto, estonian, farsi, finnish, french, ga
+lician, german, german-x-2009-06-19, greek, gujarati, hindi, hungarian, iceland
+ic, indonesian, interlingua, irish, italian, kannada, kurmanji, lao, latin, lat
+vian, lithuanian, malayalam, marathi, mongolian, mongolianlmc, monogreek, ngerm
+an, ngerman-x-2009-06-19, nynorsk, oriya, panjabi, pinyin, polish, portuguese, 
+romanian, russian, sanskrit, serbian, slovak, slovenian, spanish, swedish, swis
+sgerman, tamil, telugu, turkish, turkmen, ukenglish, ukrainian, uppersorbian, u
+senglishmax, welsh, loaded.
+
+("E:\phd\2016-17\dc book\ietbook_demosites\Demonstrations - DC Microgrid\IETBoo
+k.cls"
+
+LaTeX Warning: You have requested document class `IETBook',
+               but the document class provides `book'.
+
+Document Class: book 2000/05/19 v1.4b Standard LaTeX document class
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\bk10.clo"
+File: bk10.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\@bls=\dimen102
+\c@part=\count79
+\c@chapter=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen103
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\psnfss\times.sty"
+Package: times 2005/04/12 PSNFSS-v9.2a (SPQR) 
+)
+("E:\phd\2016-17\dc book\ietbook_demosites\Demonstrations - DC Microgrid\crop.s
+ty"
+Package: crop 1999/05/15 v1.3a cropmarks (mf)
+\CROP@offset=\count88
+Package crop Info: Local config file crop.cfg used on input line 203.
+ ("C:\Program Files (x86)\MiKTeX 2.9\tex\xelatex\xetexconfig\crop.cfg"))
+("E:\phd\2016-17\dc book\ietbook_demosites\Demonstrations - DC Microgrid\epsfig
+.sty"
+Package: epsfig 1999/02/16 v1.7a (e)psfig emulation (SPQR)
+ ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\graphics.cfg"
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\pdftex-def\pdftex.def"
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/message (HO)
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
+Package: ltxcmds 2011/04/18 v1.20 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count89
+))
+\Gin@req@height=\dimen104
+\Gin@req@width=\dimen105
+)
+\epsfxsize=\dimen106
+\epsfysize=\dimen107
+)
+("E:\phd\2016-17\dc book\ietbook_demosites\Demonstrations - DC Microgrid\amsmat
+h.sty"
+Package: amsmath 2000/07/18 v2.13 AMS math features
+\@mathmargin=\skip43
+
+For additional information on amsmath, use the `?' option.
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ams\math\amstext.sty"
+Package: amstext 2000/06/29 v2.01
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ams\math\amsgen.sty"
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks15
+\ex@=\dimen108
+))
+("E:\phd\2016-17\dc book\ietbook_demosites\Demonstrations - DC Microgrid\amsbsy
+.sty"
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen109
+) ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ams\math\amsopn.sty"
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count90
+LaTeX Info: Redefining \frac on input line 211.
+\uproot@=\count91
+\leftroot@=\count92
+LaTeX Info: Redefining \overline on input line 307.
+\classnum@=\count93
+\DOTSCASE@=\count94
+LaTeX Info: Redefining \ldots on input line 379.
+LaTeX Info: Redefining \dots on input line 382.
+LaTeX Info: Redefining \cdots on input line 467.
+\Mathstrutbox@=\box26
+\strutbox@=\box27
+\big@size=\dimen110
+LaTeX Font Info:    Redeclaring font encoding OML on input line 567.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 568.
+\macc@depth=\count95
+\c@MaxMatrixCols=\count96
+\dotsspace@=\muskip10
+\c@parentequation=\count97
+\dspbrk@lvl=\count98
+\tag@help=\toks16
+\row@=\count99
+\column@=\count100
+\maxfields@=\count101
+\andhelp@=\toks17
+\eqnshift@=\dimen111
+\alignsep@=\dimen112
+\tagshift@=\dimen113
+\tagwidth@=\dimen114
+\totwidth@=\dimen115
+\lineht@=\dimen116
+\@envbody=\toks18
+\multlinegap=\skip44
+\multlinetaggap=\skip45
+\mathdisplay@stack=\toks19
+LaTeX Info: Redefining \[ on input line 2666.
+LaTeX Info: Redefining \] on input line 2667.
+)
+("E:\phd\2016-17\dc book\ietbook_demosites\Demonstrations - DC Microgrid\amsfon
+ts.sty"
+Package: amsfonts 1996/11/03 v2.2c
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 128.
+)
+("E:\phd\2016-17\dc book\ietbook_demosites\Demonstrations - DC Microgrid\amsthm
+.sty"
+Package: amsthm 2000/06/02 v2.07
+\thm@style=\toks20
+\thm@bodyfont=\toks21
+\thm@headfont=\toks22
+\thm@notefont=\toks23
+\thm@headpunct=\toks24
+\thm@preskip=\skip46
+\thm@postskip=\skip47
+\thm@headsep=\skip48
+\dth@everypar=\toks25
+)
+("E:\phd\2016-17\dc book\ietbook_demosites\Demonstrations - DC Microgrid\latexs
+ym.sty"
+Package: latexsym 1998/08/17 v2.2e Standard LaTeX package (lasy symbols)
+\symlasy=\mathgroup6
+LaTeX Font Info:    Overwriting symbol font `lasy' in version `bold'
+(Font)                  U/lasy/m/n --> U/lasy/b/n on input line 42.
+)
+("E:\phd\2016-17\dc book\ietbook_demosites\Demonstrations - DC Microgrid\amssym
+b.sty"
+Package: amssymb 1996/11/03 v2.2b
+)
+("E:\phd\2016-17\dc book\ietbook_demosites\Demonstrations - DC Microgrid\fleqn.
+sty"
+
+LaTeX Warning: inputting `fleqn.clo' instead of obsolete `fleqn.sty'.
+
+
+("E:\phd\2016-17\dc book\ietbook_demosites\Demonstrations - DC Microgrid\fleqn.
+clo"
+File: fleqn.clo 1998/08/17 v1.1c Standard LaTeX option (flush left equations)
+\mathindent=\dimen117
+))
+("E:\phd\2016-17\dc book\ietbook_demosites\Demonstrations - DC Microgrid\framed
+.sty"
+Package: framed 2003/07/21 v 0.8a: framed or shaded text with page breaks
+\FrameRule=\dimen118
+\FrameSep=\dimen119
+)
+("E:\phd\2016-17\dc book\ietbook_demosites\Demonstrations - DC Microgrid\color.
+sty"
+Package: color 1999/02/16 v1.0i Standard LaTeX Color (DPC)
+ ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\color.cfg"
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package color Info: Driver file: pdftex.def on input line 125.
+)
+("E:\phd\2016-17\dc book\ietbook_demosites\Demonstrations - DC Microgrid\rotati
+ng.sty"
+Package: rotating 1997/09/26, v2.13 Rotation package
+ ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\ifthen.sty"
+Package: ifthen 2001/05/26 v1.1c Standard LaTeX ifthen package (DPC)
+)
+\c@r@tfl@t=\count102
+\rot@float@box=\box28
+)
+("E:\phd\2016-17\dc book\ietbook_demosites\Demonstrations - DC Microgrid\mathpt
+mx.sty"
+Package: mathptmx 2005/04/12 PSNFSS-v9.2a Times w/ Math, improved (SPQR, WaS) 
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 28.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> OT1/ztmcm/m/n on input line 28.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/ztmcm/m/n on input line 28.
+LaTeX Font Info:    Redeclaring symbol font `letters' on input line 29.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  OML/cmm/m/it --> OML/ztmcm/m/it on input line 29.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/cmm/b/it --> OML/ztmcm/m/it on input line 29.
+LaTeX Font Info:    Redeclaring symbol font `symbols' on input line 30.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> OMS/ztmcm/m/n on input line 30.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> OMS/ztmcm/m/n on input line 30.
+LaTeX Font Info:    Redeclaring symbol font `largesymbols' on input line 31.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/ztmcm/m/n on input line 31.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> OMX/ztmcm/m/n on input line 31.
+\symbold=\mathgroup7
+\symitalic=\mathgroup8
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 34.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> OT1/ptm/bx/n on input line 34.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/ptm/bx/n on input line 34.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 35.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> OT1/ptm/m/it on input line 35.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> OT1/ptm/m/it on input line 35.
+LaTeX Info: Redefining \hbar on input line 50.
+) ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\tools\enumerate.sty"
+Package: enumerate 1999/03/05 v3.00 enumerate extensions (DPC)
+\@enLab=\toks26
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ltxmisc\url.sty"
+\Urlmuskip=\muskip11
+Package: url 2006/04/12  ver 3.3  Verb mode for urls, etc.
+)
+("E:\phd\2016-17\dc book\ietbook_demosites\Demonstrations - DC Microgrid\index.
+sty"
+Package: index 1995/09/28 v4.1beta Improved index support (dmj)
+\@indexbox=\insert233
+\indexproofstyle=\toks27
+
+
+LaTeX Warning: Command \markboth  has changed.
+               Check if current package is valid.
+
+
+LaTeX Warning: Command \markright  has changed.
+               Check if current package is valid.
+
+)
+
+Package crop Warning: Requested option `' not provided on input line 867.
+
+\minute=\count103
+\hour=\count104
+\rotdimen=\dimen120
+\all=\box29
+\lastpart=\box30
+\tempdime=\dimen121
+\temptbox=\box31
+\labelwidthi=\dimen122
+\labelwidthii=\dimen123
+\labelwidthiii=\dimen124
+\labelwidthiv=\dimen125
+\@maxlistdepth=\count105
+\c@theorem=\count106
+\c@lemma=\count107
+\c@proposition=\count108
+\c@remark=\count109
+\c@example=\count110
+\c@property=\count111
+\c@definition=\count112
+\idxtitle@default=\toks28
+\tf@default=\write3
+Package index Info: Writing index file Sample.idx on input line 1103.
+) ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\soul\soul.sty"
+Package: soul 2003/11/17 v2.4 letterspacing/underlining (mf)
+\SOUL@word=\toks29
+\SOUL@lasttoken=\toks30
+\SOUL@cmds=\toks31
+\SOUL@buffer=\toks32
+\SOUL@token=\toks33
+\SOUL@spaceskip=\skip49
+\SOUL@ttwidth=\dimen126
+\SOUL@uldp=\dimen127
+\SOUL@ulht=\dimen128
+)
+
+LaTeX Warning: Unused global option(s):
+    [10pt].
+
+
+("E:\phd\2016-17\dc book\ietbook_demosites\Demonstrations - DC Microgrid\Sample
+.aux")
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Try loading font information for OT1+ptm on input line 3.
+ ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\psnfss\ot1ptm.fd"
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count113
+\scratchdimen=\dimen129
+\scratchbox=\box32
+\nofMPsegments=\count114
+\nofMParguments=\count115
+\everyMPshowfont=\toks34
+\MPscratchCnt=\count116
+\MPscratchDim=\dimen130
+\MPnumerator=\count117
+\makeMPintoPDFobject=\count118
+\everyMPtoPDFconversion=\toks35
+)
+Chapter 1.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <16> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 15.
+LaTeX Font Info:    Calculating math sizes for size <14> on input line 15.
+LaTeX Font Info:    Try loading font information for OT1+ztmcm on input line 15
+.
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\psnfss\ot1ztmcm.fd"
+File: ot1ztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OT1/ztmcm.
+)
+LaTeX Font Info:    Try loading font information for OML+ztmcm on input line 15
+.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\psnfss\omlztmcm.fd"
+File: omlztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OML/ztmcm.
+)
+LaTeX Font Info:    Try loading font information for OMS+ztmcm on input line 15
+.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\psnfss\omsztmcm.fd"
+File: omsztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMS/ztmcm.
+)
+LaTeX Font Info:    Try loading font information for OMX+ztmcm on input line 15
+.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\psnfss\omxztmcm.fd"
+File: omxztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMX/ztmcm.
+)
+LaTeX Font Info:    Try loading font information for U+lasy on input line 15.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\ulasy.fd"
+File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
+)
+
+LaTeX Font Warning: Font shape `U/lasy/m/n' in size <8.40009> not available
+(Font)              size <8> substituted on input line 15.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <14> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 15.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10.36008> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 15.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8.40009> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 15.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 15.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 15.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <5> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 15.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 19.
+[1{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}
+
+
+]
+<images/ships.jpg, id=8, 1617.04124pt x 1097.09875pt>
+File: images/ships.jpg Graphic file (type jpg)
+ <use images/ships.jpg>
+Package pdftex.def Info: images/ships.jpg used on input line 36.
+(pdftex.def)             Requested size: 302.1662pt x 205.00241pt.
+
+Overfull \vbox (13.00241pt too high) detected at line 36
+ []
+
+
+Overfull \hbox (67.14749pt too wide) detected at line 36
+[]
+ []
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <11> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 42.
+<images/reconship.png, id=9, 720.44156pt x 380.92313pt>
+File: images/reconship.png Graphic file (type png)
+
+<use images/reconship.png>
+Package pdftex.def Info: images/reconship.png used on input line 45.
+(pdftex.def)             Requested size: 318.95435pt x 168.6413pt.
+
+Overfull \vbox (0.6413pt too high) detected at line 45
+ []
+
+
+Overfull \hbox (16.78816pt too wide) detected at line 45
+[]
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[2 <E:/phd/2016-17/dc book/ietbook_demosites/Demonstrations - DC Microgrid/imag
+es/ships.jpg>] <images/austin.png, id=15, 490.83376pt x 374.90062pt>
+File: images/austin.png Graphic file (type png)
+
+<use images/austin.png>
+Package pdftex.def Info: images/austin.png used on input line 54.
+(pdftex.def)             Requested size: 302.1662pt x 230.79991pt.
+
+Overfull \vbox (2.79991pt too high) detected at line 54
+ []
+
+
+Overfull \hbox (33.57631pt too wide) detected at line 54
+[]
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+LaTeX Font Info:    Try loading font information for OMS+ptm on input line 61.
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\psnfss\omsptm.fd"
+File: omsptm.fd 
+)
+LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <10> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 61.
+ [3 <E:/phd/2016-17/dc book/ietbook_demosites/Demonstrations - DC Microgrid/ima
+ges/reconship.png>] <images/gensyst.png, id=21, 504.38437pt x 350.81062pt>
+File: images/gensyst.png Graphic file (type png)
+
+<use images/gensyst.png>
+Package pdftex.def Info: images/gensyst.png used on input line 72.
+(pdftex.def)             Requested size: 302.1662pt x 210.16145pt.
+
+Overfull \vbox (6.16145pt too high) detected at line 72
+ []
+
+
+Overfull \hbox (33.57631pt too wide) detected at line 72
+[]
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [4 <E:/phd/2016-17/dc book/ietbook_demosites/Demonstrations - DC Microgrid/ima
+ges/austin.png>] <images/dina.pdf, id=26, 1159.33125pt x 441.44923pt>
+File: images/dina.pdf Graphic file (type pdf)
+
+<use images/dina.pdf>
+Package pdftex.def Info: images/dina.pdf used on input line 83.
+(pdftex.def)             Requested size: 308.88249pt x 117.61665pt.
+
+Underfull \vbox (badness 10000) detected at line 83
+ []
+
+
+Overfull \hbox (33.57631pt too wide) detected at line 83
+[]
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [5 <E:/phd/2016-17/dc book/ietbook_demosites/Demonstrations - DC Microgrid/ima
+ges/gensyst.png>] <images/dchome.pdf, id=31, 395.076pt x 202.95825pt>
+File: images/dchome.pdf Graphic file (type pdf)
+
+<use images/dchome.pdf>
+Package pdftex.def Info: images/dchome.pdf used on input line 100.
+(pdftex.def)             Requested size: 302.1662pt x 155.23158pt.
+
+Underfull \vbox (badness 10000) detected at line 100
+ []
+
+
+Overfull \hbox (33.57631pt too wide) detected at line 100
+[]
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 105.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7.4> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 105.
+<images/bdi.png, id=32, 660.66824pt x 503.481pt>
+File: images/bdi.png Graphic file (type png)
+ <use images/bdi.png>
+Package pdftex.def Info: images/bdi.png used on input line 107.
+(pdftex.def)             Requested size: 201.44754pt x 153.51923pt.
+
+Overfull \vbox (9.51923pt too high) detected at line 107
+ []
+
+
+Overfull \hbox (130.93938pt too wide) detected at line 107
+[]
+ []
+
+[6 <E:/phd/2016-17/dc book/ietbook_demosites/Demonstrations - DC Microgrid/imag
+es/dina.pdf>] <images/taidemo.png, id=41, 682.9515pt x 455.301pt>
+File: images/taidemo.png Graphic file (type png)
+
+<use images/taidemo.png>
+Package pdftex.def Info: images/taidemo.png used on input line 113.
+(pdftex.def)             Requested size: 302.1662pt x 201.44463pt.
+
+Underfull \vbox (badness 10000) detected at line 113
+ []
+
+
+Overfull \hbox (33.57631pt too wide) detected at line 113
+[]
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [7 <E:/phd/2016-17/dc book/ietbook_demosites/Demonstrations - DC Microgrid/ima
+ges/dchome.pdf> <E:/phd/2016-17/dc book/ietbook_demosites/Demonstrations - DC M
+icrogrid/images/bdi.png>]
+("E:\phd\2016-17\dc book\ietbook_demosites\Demonstrations - DC Microgrid\Sample
+.bbl"
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [8 <E:/phd/2016-17/dc book/ietbook_demosites/Demonstrations - DC Microgrid/ima
+ges/taidemo.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 58--62
+$\OT1/ptm/m/n/10 https : / / library . e . abb . com / public / b4f3f099e9d2136
+0c1257a8a003beac2 /$
+ []
+
+) [9]
+("E:\phd\2016-17\dc book\ietbook_demosites\Demonstrations - DC Microgrid\Sample
+.aux")
+
+LaTeX Font Warning: Size substitutions with differences
+(Font)              up to 0.40009pt have occurred.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 3074 strings out of 494045
+ 40515 string characters out of 3145948
+ 95739 words of memory out of 3000000
+ 6281 multiletter control sequences out of 15000+200000
+ 49437 words of font info for 112 fonts, out of 3000000 for 9000
+ 715 hyphenation exceptions out of 8191
+ 41i,11n,24p,829b,306s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Program Files (x86)/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc}<C:/Progra
+m Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program 
+Files (x86)/MiKTeX 2.9/fonts/type1/urw/times/utmb8a.pfb><C:/Program Files (x86)
+/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb><C:/Program Files (x86)/MiKTeX 2.9
+/fonts/type1/urw/times/utmr8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type
+1/urw/times/utmri8a.pfb>
+Output written on Sample.pdf (9 pages, 3161107 bytes).
+PDF statistics:
+ 99 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 41 words of extra memory for PDF output out of 10000 (max. 10000000)
+

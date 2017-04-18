@@ -1,0 +1,76 @@
+\begin{thebibliography}{10}
+
+\bibitem{alb}
+Jin Z, Sulligoi G, Cuzner R, et~al.
+\newblock Next-Generation Shipboard DC Power System: Introduction Smart Grid
+  and dc Microgrid Technologies into Maritime Electrical Netowrks.
+\newblock IEEE Electrification Magazine. 2016 June;4(2):45--57.
+
+\bibitem{ieee}
+IEEE Recommended Practice for 1 kV to 35 kV Medium-Voltage DC Power Systems on
+  Ships.
+\newblock IEEE Std 1709-2010. 2010 Nov;p. 1--54.
+
+\bibitem{usuninavy}
+Schulz NN, Hebner RE, Dale S, et~al.
+\newblock The U.S. ESRDC advances power system research for shipboard systems.
+\newblock In: 2008 43rd International Universities Power Engineering
+  Conference; 2008. p. 1--4.
+
+\bibitem{austin}
+Herbst JD, Gattozzi AL, Ouroua A, et~al.
+\newblock Flexible test bed for MVDC and HFAC electric ship power system
+  architectures for Navy ships.
+\newblock In: 2011 IEEE Electric Ship Technologies Symposium; 2011. p. 66--71.
+
+\bibitem{mit}
+Chryssostomidis C, Cooke CM.
+\newblock Space reservation for shipboard electric power distribution systems.
+\newblock In: 2015 IEEE Electric Ship Technologies Symposium (ESTS); 2015. p.
+  187--192.
+
+\bibitem{fsu}
+Andrus M, Ravindra H, Hauer J, et~al.
+\newblock PHIL implementation of a MVDC fault management test bed for ship
+  power systems based on megawatt-scale modular multilevel converters.
+\newblock In: 2015 IEEE Electric Ship Technologies Symposium (ESTS); 2015. p.
+  337--342.
+
+\bibitem{sulli}
+Sulligoi G, Tessarolo A, Benucci V, et~al.
+\newblock Shipboard Power Generation: Design and Development of a
+  Medium-Voltage dc Generation System.
+\newblock IEEE Industry Applications Magazine. 2013 July;19(4):47--55.
+
+\bibitem{abb1}
+Onboard DC Grid - one year in operation [homepage on the Internet]. ABB; [cited
+  2017 Apr 11].
+\newblock Available from:
+  \url{http://new.abb.com/marine/generations/technology/onboard-dc-grid---one-year-in-operation}.
+
+\bibitem{abbart}
+Hansen JF, Lindtjorn JO, Myklebust TA, et~al.
+\newblock Onboard dc grid for enhanced DP operation in ships.
+\newblock In: Proceedings of Marine Technology Society Dynamic Positioning
+  Conference; 2011. .
+
+\bibitem{abb0}
+Onboard DC Grid - The newest design for marine power and propulsion systems
+  [homepage on the Internet]. ABB; [cited 2017 Apr 11].
+\newblock Available from:
+  \url{https://library.e.abb.com/public/b4f3f099e9d21360c1257a8a003beac2/ABB\%20Generations_20\%20Onboard\%20DC\%20grid.pdf}.
+
+\bibitem{laurens}
+Mackay L, Hailu TG, Mouli GC, et~al.
+\newblock From DC nano- and microgrids towards the universal DC distribution
+  system - a plea to think further into the future.
+\newblock In: 2015 IEEE Power Energy Society General Meeting; 2015. p. 1--5.
+
+\bibitem{taiwandemo}
+Wu TF, Chen YK, Yu GR, et~al.
+\newblock Design and development of dc-distributed system with grid connection
+  for residential applications.
+\newblock In: 8th International Conference on Power Electronics - ECCE Asia;
+  2011. p. 235--241.
+
+\end{thebibliography}
